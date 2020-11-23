@@ -1,5 +1,5 @@
 # tempmailo-api
- A node.js API for accessing tempmailo.com's services.
+ A node.js API for accessing and generating temporary email boxes using tempmailo.com's services.
 
 ---
 Installation 
