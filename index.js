@@ -59,5 +59,5 @@ function genRandomEmail() {
     return Email;
 }
 
-exports.GetEmails = getEmails;
+exports.getEmails = getEmails;
 exports.genRandomEmail = genRandomEmail;
