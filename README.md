@@ -10,21 +10,20 @@ npm install tempmailo-api
 ---
 Usage 
 ---
+Import the module
 ```javascript
 const tempmailoapi = require('tempmailo-api');
 ```
-Import the module.
 
+Generate a random email that is supported by tempmailo
 ```javascript
 tempmailoapi.genRandomEmail();
 ```
-Generates a random email that is supported by tempmailo.
 
+Retrieve all the emails in an inbox
 ```javascript
 tempmailoapi.getEmails(Email);
 ```
-Retrieves all the emails in an inbox.
-
 Example Response
 ```
 [{"id":"5fbb3234575afab2c31f946c","from":"\"Sender\" <sender@domain.com>","to":"email@domain.com","subject":"Subject","text":null,"html":"<b>Hello</b>","date":"2020-11-23T03:53:22.723Z"}]
