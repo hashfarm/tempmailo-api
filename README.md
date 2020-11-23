@@ -11,6 +11,11 @@ npm install tempmailo-api
 Usage 
 ---
 ```javascript
+const tempmailoapi = require('tempmailo-api');
+```
+Import the module.
+
+```javascript
 tempmailoapi.genRandomEmail();
 ```
 Generates a random email that is supported by tempmailo.
