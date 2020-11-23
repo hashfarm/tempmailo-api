@@ -1,6 +1,6 @@
 {
   "name": "tempmailo-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A node.js API for accessing tempmailo.com's services.",
   "main": "index.js",
   "dependencies": {
@@ -18,5 +18,10 @@
     "email api"
   ],
   "author": "ProtoGrace",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ProtoGrace/tempmailo-api.git"
+  },
+  "homepage": "https://github.com/ProtoGrace/tempmailo-api",
   "license": "MIT"
 }
