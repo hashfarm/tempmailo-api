@@ -1,0 +1,22 @@
+{
+  "name": "tempmailo-api",
+  "version": "1.0.0",
+  "description": "A node.js API for accessing tempmailo.com's services.",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "unirest": "^0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "temp mail",
+    "email",
+    "tempmailo",
+    "email api"
+  ],
+  "author": "ProtoGrace",
+  "license": "MIT"
+}
