@@ -1,6 +1,6 @@
 {
   "name": "tempmailo-api",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A node.js API for accessing tempmailo.com's services.",
   "main": "index.js",
   "dependencies": {

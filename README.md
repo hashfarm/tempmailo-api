@@ -28,3 +28,14 @@ Example Response
 Examples 
 ---
 Examples are available [here](https://github.com/ProtoGrace/tempmailo-api/tree/main/examples).
+
+---
+Domains
+---
+Some of the email domains I know tempmailo use, and are used by the random email gen.
+```
+@livinginsurance.eu
+@ivyandmarj.com
+@digital10network.com
+@celinecityitalia.com
+```
